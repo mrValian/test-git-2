@@ -4,9 +4,10 @@ console.log("test");
 console.log("test");
 console.log("test");
 
-let age = 6;
-if (age > 7) {
-    console.log("brrr");
+let age = 20;
+
+if (age >= 18) {
+    console.log("ok");
 } else {
-    console.log("vrrr");
+    console.log("not ok");
 }
